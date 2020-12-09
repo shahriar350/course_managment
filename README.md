@@ -20,6 +20,13 @@ Next:
 
     composer install
  All laravel component will install in your project.
+ Now you should run
+ 
+
+    npm install 
+
+all node dependencies will install your project.
+
   This is time to make your database setting.
   Goto ***.env.example*** and change it to ***.env*** (remove only *.example*) 
 
@@ -48,8 +55,8 @@ Next:
  - /login (for student)
  - /teacher/login (for teacher)
  - /admin/login (for admin)
+ 
 Now you are free to run site in your system.
-
-  
-
+To run project use those command <br/>
+`php artisan ser` `npm run dev`
 
