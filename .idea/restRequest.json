@@ -1,0 +1,8 @@
+{
+  "uri": "http://127.0.0.1/student/courses/init",
+  "method": "GET",
+  "body": "",
+  "headers": {
+    "Authorization": "Basic c2hhaHJpYXI6MTIzNDU2"
+  }
+}

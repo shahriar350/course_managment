@@ -1,0 +1,4 @@
+GET http://localhost:8000/student/courses/init
+Accept: application/json
+
+###
